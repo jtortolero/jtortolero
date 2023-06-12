@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jtortolero
-- 👀 I’m interested in programming, BTC, Tech.
+- 👀 I’m interested in programming, BTC, Blockchain development, Tech.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate with the crypto enviroment.
 - 📫 tortolerosje@gmail.com
